@@ -5,5 +5,5 @@ To reproduce the figures in the paper, copy over variables_chlbenz_abs.m to vari
 
 The coherence part of the code is not final, ignore this section.
 
-The original set of codes were writte by Divij Mishra and Pranav Kasetty (also authors on the above paper) and the codes are available at-
+The original set of codes were written by Divij Mishra and Pranav Kasetty (also authors on the above paper) and the codes are available at-
 https://github.com/PranavKasetty/Linear-Agg-Temp-PL.git
